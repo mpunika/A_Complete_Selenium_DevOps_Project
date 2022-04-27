@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CI-CD Test Regression" duration-ms="53214" started-at="2022-04-19T19:24:06Z" finished-at="2022-04-19T19:24:59Z">
+    <groups>
+    </groups>
+    <test name="Sanity Test" duration-ms="53214" started-at="2022-04-19T19:24:06Z" finished-at="2022-04-19T19:24:59Z">
+      <class name="testbase.TestBase">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testbase.TestBase@61dc03ce]" name="launchBrowser" is-config="true" duration-ms="19506" started-at="2022-04-19T19:24:06Z" finished-at="2022-04-19T19:24:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:testbase.TestBase@61dc03ce]" name="Test1" duration-ms="10511" started-at="2022-04-19T19:24:26Z" finished-at="2022-04-19T19:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testbase.TestBase@61dc03ce]" name="tearDown" is-config="true" duration-ms="1116" started-at="2022-04-19T19:24:36Z" finished-at="2022-04-19T19:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testbase.TestBase@61dc03ce]" name="launchBrowser" is-config="true" duration-ms="4827" started-at="2022-04-19T19:24:37Z" finished-at="2022-04-19T19:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:testbase.TestBase@61dc03ce]" name="Test2" duration-ms="5815" started-at="2022-04-19T19:24:42Z" finished-at="2022-04-19T19:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testbase.TestBase@61dc03ce]" name="tearDown" is-config="true" duration-ms="801" started-at="2022-04-19T19:24:48Z" finished-at="2022-04-19T19:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testbase.TestBase@61dc03ce]" name="launchBrowser" is-config="true" duration-ms="3814" started-at="2022-04-19T19:24:49Z" finished-at="2022-04-19T19:24:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:testbase.TestBase@61dc03ce]" name="Test3" duration-ms="5899" started-at="2022-04-19T19:24:53Z" finished-at="2022-04-19T19:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testbase.TestBase@61dc03ce]" name="tearDown" is-config="true" duration-ms="892" started-at="2022-04-19T19:24:59Z" finished-at="2022-04-19T19:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testbase.TestBase -->
+    </test> <!-- Sanity Test -->
+  </suite> <!-- CI-CD Test Regression -->
+</testng-results>

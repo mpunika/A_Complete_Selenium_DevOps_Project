@@ -1,0 +1,7 @@
+<suite name = "CI-CD Test Regression">
+    <test name = "Sanity Test">
+        <classes>
+            <class name ="testbase.TestBase"></class>
+        </classes>
+    </test>
+</suite>
